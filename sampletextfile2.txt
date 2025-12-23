@@ -3,3 +3,4 @@ file updating
 There are some changes in the file and we have stashed two files for future use via git stash save typescriptchanges new changes
 There are some changes in the file and we have stashed two files for future use via git stash save typescriptchanges
 new code
+Here are new changes in the github without github bash (cmd)
